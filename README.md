@@ -23,3 +23,5 @@ Una vez instalado, es necesario crear un proyecto nuevo seleccionando como tipo 
 
 3) Opcionalmente, debe instalar la utilería en caso de que desee mostrar la aplicación 
 https://github.com/Genymobile/scrcpy
+
+4) Descargar los archivos ZIP ubicados en este repositorio. Cada ZIP contiene los archivos necesarios para crear cada proyecto que será visto durante el taller.
