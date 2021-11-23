@@ -1,16 +1,16 @@
 # CursoTallerGraficos3DAndroidOpenGLES
 Demos para el curso taller "Gráficos 3D en Android usando OpenGL ES"
 
-Prerequisitos:
+Conocimientos Previos:
 
 A) Conocimiento básico de Programación, preferente programación orientada a objetos en Java o C++
 
-B) Computadora de escritorio o Laptop con por lo menos 4 GB de memoria RAM, 50 GB de espacio en Disco libre
-
-C) Conocimientos mínimos de Algebra Lineal y geometría analítica
+B) Conocimientos mínimos de Algebra Lineal y geometría analítica
 
 
 Hardware y Herramientas Software necesarias para este curso:
+
+0) Se requiere que el estudiante tenga una computadora de escritorio o Laptop con por lo menos 4 GB de memoria RAM (preferentemente 6,8 o 12 GB), 50 GB de espacio en Disco libre**
 
 1) Para este curso, es necesario descargar e instalar la ùltima versión de Android Studio 
 
