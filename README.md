@@ -7,7 +7,7 @@ A) Conocimiento básico de Programación, preferente programación orientada a o
 
 B) Computadora de escritorio o Laptop con por lo menos 4 GB de memoria RAM, 50 GB de espacio en Disco libre
 
-C) Conocimientos mínimos de Algebra Lineal
+C) Conocimientos mínimos de Algebra Lineal y geometría analítica
 
 
 Hardware y Herramientas Software necesarias para este curso:
